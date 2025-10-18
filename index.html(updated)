@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Heisenberg - Moral Support & Motivation</title>
+
+  <!-- Font and CSS -->
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="welcome-overlay">
+    <h1 class="welcome-text">Welcome to Heisenberg</h1>
+  </div>
+
+  <!-- Header with logo -->
+  <header>
+    <div class="logo">
+      <div class="symbol">Hₑ</div>
+      <span class="name">Heisenberg</span>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="line-layer"></div>
+    <div class="hero-content">
+      <h1>Heisenberg</h1>
+      <h2 class="subtitle">I am with you</h2>
+      <p class="tagline">Where Peace Meets Positivity 🌿</p>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Sathwicknakka2001@gmail.com&su=Need%20Support&body=Hello%20Sathwick,%20I%20need%20your%20support."
+   target="_blank"
+   class="connect-btn">
+   📩 Connect With Me
+</a>
+
+      <a href="#disclaimer" class="btn outline">Disclaimer</a>
+    </div>
+
+    <div class="quotes-container">
+      <p class="quote"></p>
+    </div>
+  </section>
+
+  <section class="content">
+    <div class="card" id="disclaimer">
+      <h2>Disclaimer & Guidelines</h2>
+      <p>
+        This platform is created purely for offering <strong>moral support and positive guidance</strong>.  
+        The support provided through this website, emails, or messages is <strong>not professional advice</strong> — psychological, medical, or legal.
+      </p>
+      <p>
+        Heisenberg encourages <strong>peaceful and non-violent communication</strong>.  
+        We do <strong>not collect or store any personal data</strong>. You are free to connect through the provided Gmail link.
+      </p>
+      <p>
+        Any actions taken based on our motivational messages or suggestions are solely your responsibility.  
+        This website and its creator are not liable for personal decisions made by visitors.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Our Mission</h2>
+      <p>
+        To bring light into dark moments — to be someone’s silent listener,  
+        to help others find hope, calmness, and strength within themselves.
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Heisenberg | Built for Peace & Positivity 🌸</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
